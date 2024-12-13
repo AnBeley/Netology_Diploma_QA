@@ -1,0 +1,133 @@
+{
+    "name": "Отмена создания  новости",
+    "start": 1734132315077,
+    "stop": 1734132333943,
+    "stage": "finished",
+    "description": "Тест-кейс 73. Новость не создается при нажатии на кнопку отмена в процессе создания новости в панели управления",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Открытие страницы создания новости",
+            "start": 1734132329049,
+            "stop": 1734132329049,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Открытие Панели управления",
+            "start": 1734132329049,
+            "stop": 1734132329049,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Вход в раздел Новости",
+            "start": 1734132329049,
+            "stop": 1734132329049,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734132329049,
+            "stop": 1734132329049,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку главного меню",
+            "start": 1734132330556,
+            "stop": 1734132330556,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "8439e2b9-743d-49ab-98cd-ece38b334fd5",
+    "historyId": "c11b392fb879532dd6002d3c79d13256",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsControlPanelTests.shouldCancelNewsCreating",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsControlPanelTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCancelNewsCreating"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsControlPanelTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(954)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

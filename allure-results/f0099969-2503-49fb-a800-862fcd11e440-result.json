@@ -1,0 +1,117 @@
+{
+    "name": "Открытие Панели управления",
+    "start": 1734132399732,
+    "stop": 1734132415635,
+    "stage": "finished",
+    "description": "Тест-кейс 37. Открытие страницы Панели управления при нажатии на кнопку редактирования в разделе Новости",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Открытие Панели управления",
+            "start": 1734132412582,
+            "stop": 1734132412582,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Вход в раздел Новости",
+            "start": 1734132412583,
+            "stop": 1734132412583,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734132412583,
+            "stop": 1734132412583,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку главного меню",
+            "start": 1734132413962,
+            "stop": 1734132413962,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "f0099969-2503-49fb-a800-862fcd11e440",
+    "historyId": "d76a8fc82d696e9c36151914d26a63e7",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsControlPanelTests.shouldControlPanelOpen",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsControlPanelTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldControlPanelOpen"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsControlPanelTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(954)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Отображение содержания страницы О Приложении",
+    "start": 1734131912791,
+    "stop": 1734131928732,
+    "stage": "finished",
+    "description": "Тест-кейс 23. При нажатии в главном меню на раздел О приложении пользователь переходит на страницу О Приложении, где размещены ссылки на Пользовательское соглашение и Политику конфиденциальности",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Вход в меню - О Приложении",
+            "start": 1734131925664,
+            "stop": 1734131925664,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734131925664,
+            "stop": 1734131925664,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку главного меню",
+            "start": 1734131927033,
+            "stop": 1734131927033,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "81d8a835-c5db-40fe-b5c5-b9e61f67ce29",
+    "historyId": "25611fbde7f1c7249c1a7168afa1a39f",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutAppTests.shouldAboutAppDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutAppTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldAboutAppDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutAppTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(904)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

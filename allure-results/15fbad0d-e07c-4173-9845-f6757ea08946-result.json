@@ -1,0 +1,85 @@
+{
+    "name": "Разворачивание текста цитаты",
+    "start": 1734130659921,
+    "stop": 1734130667513,
+    "stage": "finished",
+    "description": "Тест-кейс 32. Разворачивание текста цитаты с помощью стрелки в разделе цитаты",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Вход в раздел Цитаты",
+            "start": 1734130664747,
+            "stop": 1734130664747,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734130664748,
+            "stop": 1734130664748,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "15fbad0d-e07c-4173-9845-f6757ea08946",
+    "historyId": "466ae34242f1ccad81b33b789ecc21db",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.CitationsListTests.shouldShowCitation",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.CitationsListTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldShowCitation"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.CitationsListTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(711)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Сворачивание текста цитаты",
+    "start": 1734132091083,
+    "stop": 1734132107045,
+    "stage": "finished",
+    "description": "Тест-кейс 33. Сворачивание текста цитаты при нажатии на блок с цитатой в разделе Цитаты ",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Вход в раздел Цитаты",
+            "start": 1734132104268,
+            "stop": 1734132104268,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734132104268,
+            "stop": 1734132104268,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "f05add58-8cdd-4f34-bc52-4223c0e51142",
+    "historyId": "d8993ccf06205a9d83dd9c29ab424504",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.CitationsListTests.shouldHideCitation",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.CitationsListTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldHideCitation"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.CitationsListTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(924)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

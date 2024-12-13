@@ -1,0 +1,53 @@
+{
+    "name": "Появляется нотификация об ошибке, если в поле логин и пароль вставить SQL-инъекцию",
+    "start": 1734131976225,
+    "stop": 1734131981920,
+    "stage": "finished",
+    "description": "Тест-кейс 11. Появляется нотификация об ошибке при вводе SQL инъекции в поле логин и пароль в процессе авторизации",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ff2e6dca-3b9b-44c7-94e7-bb720d9ee843",
+    "historyId": "c218eb2d43e6078c635b50344b0b10b",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.shouldNotLogInWithSql",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldNotLogInWithSql"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(914)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Отображение полей экрана авторизации",
+    "start": 1734132048180,
+    "stop": 1734132061552,
+    "stage": "finished",
+    "description": "Тест-кейс 2. Полями ввода логина и пароля отображаются на странице Авторизации при запуске приложения не зарегистрированным пользователем",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "3be7ff34-5cf9-4161-86da-8c3d391c00e1",
+    "historyId": "5411dd4e38b1c05eeb315a61fe32b3f6",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.shouldLoginScreenDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldLoginScreenDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(914)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

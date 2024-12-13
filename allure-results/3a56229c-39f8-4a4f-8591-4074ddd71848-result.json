@@ -1,0 +1,69 @@
+{
+    "name": "Разворачивание списка новостей",
+    "start": 1734132156547,
+    "stop": 1734132172123,
+    "stage": "finished",
+    "description": "Тест-кейс 28. Список новостей разворачивается при нажатии стрелки напротив заголовка раздела на главной странице",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734132169604,
+            "stop": 1734132169604,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "3a56229c-39f8-4a4f-8591-4074ddd71848",
+    "historyId": "6cbf0db25ca5d433cc926a58464b31ba",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.MainScreenTests.shouldShowNewsOnMainPage",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainScreenTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldShowNewsOnMainPage"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainScreenTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(934)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

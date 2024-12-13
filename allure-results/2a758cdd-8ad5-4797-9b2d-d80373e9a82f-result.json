@@ -1,0 +1,101 @@
+{
+    "name": "Открытие страницы настройки фильтрации в разделе Новости",
+    "start": 1734132577608,
+    "stop": 1734132594681,
+    "stage": "finished",
+    "description": "Тест-кейс 42. При нажатии на кнопку Фильтр в разделе Новости, открывается страница фильтрации новостей",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Вход в раздел Новости",
+            "start": 1734132591468,
+            "stop": 1734132591468,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734132591468,
+            "stop": 1734132591468,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку главного меню",
+            "start": 1734132592975,
+            "stop": 1734132592975,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "2a758cdd-8ad5-4797-9b2d-d80373e9a82f",
+    "historyId": "fdc60767c2b1812172587256e95ec3c4",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageTests.shouldFilterPageOpen",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldFilterPageOpen"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(969)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

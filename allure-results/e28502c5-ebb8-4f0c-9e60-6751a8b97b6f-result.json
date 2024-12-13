@@ -1,0 +1,53 @@
+{
+    "name": "Появляется нотификация об ошибке, если поле пароль остаивть пустым и ввести валидный логин",
+    "start": 1734132024467,
+    "stop": 1734132030186,
+    "stage": "finished",
+    "description": "Тест-кейс 9. Появляется нотификация об ошибке, если поле пароль оставить пустым и ввести валидный логин в процессе авторизации",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "e28502c5-ebb8-4f0c-9e60-6751a8b97b6f",
+    "historyId": "e1bc08c5de5f9c715ef0eb2bec011ad8",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.shouldNotLogInWithVoidPass",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldNotLogInWithVoidPass"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(914)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

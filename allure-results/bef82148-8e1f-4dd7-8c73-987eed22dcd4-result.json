@@ -1,0 +1,69 @@
+{
+    "name": "Отображение экрана авторизации при запуске приложения авторизованным пользователем",
+    "start": 1734131981929,
+    "stop": 1734131994226,
+    "stage": "finished",
+    "description": "Тест-кейс 3. Приложение запускается при нажатии на иконку на рабочем столе мобильного устройства авторизованного пользователя",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734131986869,
+            "stop": 1734131986869,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "bef82148-8e1f-4dd7-8c73-987eed22dcd4",
+    "historyId": "64f81c02ebc58448395fc4aaf89fa848",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.shouldAuthorizationPageIsDisplayedIfAuth",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldAuthorizationPageIsDisplayedIfAuth"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(914)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

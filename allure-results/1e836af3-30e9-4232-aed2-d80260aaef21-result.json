@@ -1,0 +1,101 @@
+{
+    "name": "Ссылка на политику конфиденциальности кликабельна",
+    "start": 1734131880249,
+    "stop": 1734131895672,
+    "stage": "finished",
+    "description": "Тест-кейс 15. Ссылка, ведущая на страницу с  текстом Политики конфденциальности  \"https://vhospice.org/#/privacy-policy\",  кликабельна в разделе О приложении",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Вход в меню - О Приложении",
+            "start": 1734131893169,
+            "stop": 1734131893169,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация в приложении",
+            "start": 1734131893169,
+            "stop": 1734131893169,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие на кнопку главного меню",
+            "start": 1734131894567,
+            "stop": 1734131894567,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "1e836af3-30e9-4232-aed2-d80260aaef21",
+    "historyId": "43969609c528d8da35b4a14123b2612f",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutAppTests.shouldPrivacyPolicyIsClickable",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutAppTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldPrivacyPolicyIsClickable"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutAppTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(904)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
